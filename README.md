@@ -1,1 +1,1 @@
-# Day Running Lights
+# Daytime Running Lights
